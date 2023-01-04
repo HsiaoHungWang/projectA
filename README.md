@@ -17,3 +17,7 @@ function sayHi(){
 }
 ```
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
